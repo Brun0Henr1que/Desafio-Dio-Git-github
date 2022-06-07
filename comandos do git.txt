@@ -1,0 +1,10 @@
+Comandos do git: 
+git clone - pega o repositório do servidor e clona na máquina
+ls - lista os arquivos dentro da pasta
+git pull origin - pega os arquivos do repositório no servidor e passa para a máquina
+cd - change directory
+cd .. - volta um nível 
+git status - mostra o status do arquivo (staged, commit..)
+git add . - prepara as mudanças para serem enviadas ao servidor
+git commit -m - envia as mudanças para o servidor ("-m" adiciona uma mensagem)
+git push origin main/master - move o arquivo da máquina para o servidor    
