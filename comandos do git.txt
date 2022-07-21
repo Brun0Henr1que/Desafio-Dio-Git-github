@@ -9,3 +9,4 @@ git status - mostra o status do arquivo (staged, commit..)
 git add . - prepara as mudanças para serem enviadas ao servidor
 git commit -m - envia as mudanças para o servidor ("-m" adiciona uma mensagem)
 git push origin main/master - copia o arquivo da máquina para o repositório.   
+git remote add origin url do repositório no github
