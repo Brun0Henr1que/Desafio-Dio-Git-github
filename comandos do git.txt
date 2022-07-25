@@ -1,4 +1,6 @@
 Comandos do git: 
+git config --global user.name "Fulano de Tal" - loga o username
+git config --global user.email fulanodetal@exemplo.br - loga o email
 git init - inicia um repositório na sua máquina
 git clone - pega o repositório do servidor e clona na máquina
 ls - lista os arquivos dentro da pasta
